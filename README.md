@@ -1,1 +1,3 @@
 BOOM!
+
+[Casualty](Casualty.md)
